@@ -1,0 +1,159 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #6c5ce7; /* ungu background color */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc; /* line */
+  }
+  
+  .nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav-links hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ccc; /* separator */
+  }
+  
+  .booking-btn {
+    background-color: #fff;
+    color: #6c5ce7;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .booking-btn:hover {
+    background-color: #f0f0f0;
+  }
+
+.logo {
+    margin-right: 20px;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 100px;
+    font-size: medium;
+}
+
+.booking-btn {
+    background-color: #fff;
+    color: #6c5ce7;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #6c5ce7, #fff);
+    padding: 80px;
+    text-align: center;
+    margin: auto;
+}
+
+.hero h1 {
+    font-size: 100px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 15px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+.country-btn,.search-btn {
+    background-color: #fff;
+    color: #6c5ce7;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.footer {
+    background-color: #6c5ce7;
+    padding: auto;
+    text-align: center;
+    color: #fff;
+    
+}
+
+.footer p {
+    line-height: 1.2;
+  }
+.kiri{
+        text-align: left;
+}
+
+.shopnow {
+    margin-top: -1000px; 
+}
+
+.hero .kiri{
+    max-width: 50%; 
+  text-align: justify;
+}
+
+.headline {
+    font-size: 40px;
+    font-weight: 100000px;
+    font-style: normal;
+    top: 200px;
+    right: 100px;
+    padding: auto;
+  }
+
+.icon {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    margin: 80px;
+    padding: auto;
+}
+
+
